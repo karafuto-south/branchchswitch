@@ -1,3 +1,3 @@
-function deploy(){
-    
+function sayHi(){
+    alert('Hello from git');
 }
